@@ -28,4 +28,4 @@ install(DIRECTORY include
 install(FILES LICENSE DESTINATION ${INSTALL_MISC_DIR})
 install(FILES COPYING DESTINATION ${INSTALL_MISC_DIR})
 install(FILES COPYING.LESSER DESTINATION ${INSTALL_MISC_DIR})
-install(FILES cmake-modules/FindTabToolbar.cmake DESTINATION ${INSTALL_MISC_DIR}/share/tabtoolbar/TabToolbarConfig.cmake)
+install(FILES cmake-modules/FindTabToolbar.cmake DESTINATION ${INSTALL_MISC_DIR}/share/tabtoolbar)
