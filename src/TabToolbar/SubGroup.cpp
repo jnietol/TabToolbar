@@ -24,6 +24,7 @@
 #include <TabToolbar/StyleTools.h>
 #include <TabToolbar/SubGroup.h>
 #include <TabToolbar/TabToolbar.h>
+#include <stdexcept>
 
 using namespace tt;
 
